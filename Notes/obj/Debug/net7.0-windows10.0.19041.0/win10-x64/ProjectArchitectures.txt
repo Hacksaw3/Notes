@@ -1,0 +1,1 @@
+D:\MAUI APPS\Notes\Notes\Notes.csproj;x64
